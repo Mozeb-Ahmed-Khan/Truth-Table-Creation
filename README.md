@@ -31,7 +31,7 @@ The program displays a truth table based on these expressions and allows users t
    
 3. Compile the C++ program:
    ```bash
-   g++ src/Source.cpp -o truth_table_evaluator
+   g++ Source.cpp -o truth_table_evaluator
 
 4. Run the executable:
    ```bash
